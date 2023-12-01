@@ -27,6 +27,7 @@ input {
     margin-top: 5vh;
     text-align: center;
     font-size: 20px;
+    border: none;
 }
 
 button {
