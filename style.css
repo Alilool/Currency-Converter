@@ -61,5 +61,6 @@ div {
 }
 
 div > h2 {
-    margin-bottom: 23px;
+    margin-bottom: 3vh;
+    font-size: 17px;
 }
